@@ -1,0 +1,19 @@
+set_io i_clk 15
+
+set_io i_switch_1 53 
+set_io i_switch_2 51
+set_io i_switch_3 54
+set_io i_switch_4 52
+
+set_io o_led_1 56
+set_io o_led_2 57
+set_io o_led_3 59
+set_io o_led_4 60
+
+set_io o_disp_A 3
+set_io o_disp_B 4
+set_io o_disp_C 93
+set_io o_disp_D 91
+set_io o_disp_E 90
+set_io o_disp_F 1
+set_io o_disp_G 2

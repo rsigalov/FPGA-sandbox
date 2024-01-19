@@ -1,0 +1,19 @@
+set_io i_clk 15
+
+set_io o_seg_1A 3
+set_io o_seg_1B 4
+set_io o_seg_1C 93
+set_io o_seg_1D 91
+set_io o_seg_1E 90
+set_io o_seg_1F 1
+set_io o_seg_1G 2
+set_io o_seg_2A 100
+set_io o_seg_2B 99
+set_io o_seg_2C 97
+set_io o_seg_2D 95
+set_io o_seg_2E 94
+set_io o_seg_2F 8
+set_io o_seg_2G 96
+
+set_io i_uart_rx 73
+set_io o_uart_tx 74
